@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tech News Feed</string>
+    <string name="text_dzone_news_feed_source_item">DZone</string>
 </resources>
