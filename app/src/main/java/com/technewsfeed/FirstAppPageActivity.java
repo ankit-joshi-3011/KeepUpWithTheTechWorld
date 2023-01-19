@@ -15,15 +15,7 @@ public class FirstAppPageActivity extends AppCompatActivity {
 
         Context context = this;
 
-        int[] newsFeedSourceResourceIds = new int[] {
-            R.string.text_dzone_news_feed_source_item
-        };
-
-        String[] newsFeedSourceResourceStrings = new String[newsFeedSourceResourceIds.length];
-
-        for (int index = 0; index < newsFeedSourceResourceStrings.length; index++) {
-            newsFeedSourceResourceStrings[index] = getString(newsFeedSourceResourceIds[index]);
-        }
+        String[] newsFeedSourceResourceStrings = Utility.getResourceStringsFromIds(context, R.string.text_dzone_news_feed_source_item);
 
         ListView newsFeedSourcesListView = findViewById(R.id.news_feed_sources_list_view);
 
