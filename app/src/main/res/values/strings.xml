@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">Tech News Feed</string>
     <string name="text_dzone_news_feed_source_item">DZone</string>
+    <string name="text_dzone_category_agile">Agile Zone</string>
+    <string name="text_dzone_category_ai">AI Zone</string>
+    <string name="text_dzone_category_big_data">Big Data Zone</string>
+    <string name="text_dzone_category_cloud">Cloud Zone</string>
+    <string name="text_dzone_category_database">Database Zone</string>
+    <string name="text_dzone_category_devops">DevOps Zone</string>
+    <string name="text_dzone_category_integration">Integration Zone</string>
+    <string name="text_dzone_category_iot">IOT Zone</string>
+    <string name="text_dzone_category_java">Java Zone</string>
+    <string name="text_dzone_category_microservices">Microservices Zone</string>
+    <string name="text_dzone_category_open_source">Open Source Zone</string>
+    <string name="text_dzone_category_performance">Performance Zone</string>
+    <string name="text_dzone_category_security">Security Zone</string>
+    <string name="text_dzone_category_web_dev">Web Dev Zone</string>
 </resources>
