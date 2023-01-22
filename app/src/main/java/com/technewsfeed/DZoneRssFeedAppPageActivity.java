@@ -6,7 +6,6 @@ import android.webkit.WebView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class DZoneRssFeedAppPageActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
