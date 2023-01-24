@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tech News Feed</string>
+    <string name="app_name">Keep up with the Tech World</string>
     <string name="text_dzone_news_feed_source_item">DZone</string>
     <string name="text_dzone_category_agile">Agile Zone</string>
     <string name="text_dzone_category_ai">AI Zone</string>
