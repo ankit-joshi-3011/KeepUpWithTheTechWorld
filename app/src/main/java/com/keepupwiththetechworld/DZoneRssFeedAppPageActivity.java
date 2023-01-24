@@ -1,4 +1,4 @@
-package com.technewsfeed;
+package com.keepupwiththetechworld;
 
 import android.os.Bundle;
 import android.webkit.WebResourceRequest;

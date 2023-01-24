@@ -1,4 +1,4 @@
-package com.technewsfeed;
+package com.keepupwiththetechworld;
 
 import android.content.Context;
 import android.content.Intent;
